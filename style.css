@@ -33,3 +33,19 @@ display: flex;
 
 width: 120px;
 }
+
+.apresentação-div{
+text-align: center ;
+
+}
+
+.apresentação-titulo{
+text-align: center;
+padding: 50px 0;
+}
+
+.jogador-todos{
+display: grid;
+grid-template-columns: 15% 15% 15% 15% 15% 15% 15%;
+
+}
