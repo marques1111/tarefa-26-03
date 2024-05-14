@@ -49,3 +49,11 @@ display: grid;
 grid-template-columns: 15% 15% 15% 15% 15% 15% 15%;
 
 }
+
+.footer{
+    background: #a8a8a8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 5px 5px;
+}
